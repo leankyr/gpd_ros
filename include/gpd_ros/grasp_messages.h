@@ -36,8 +36,8 @@
 
 #include <gpd/candidate/hand.h>
 
-#include <gpd_ros/GraspConfig.h>
-#include <gpd_ros/GraspConfigList.h>
+#include "gpd_ros/GraspConfig.h"
+#include "gpd_ros/GraspConfigList.h"
 
 namespace GraspMessages
 {
